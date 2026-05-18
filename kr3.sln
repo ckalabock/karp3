@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpMonitorApp", "HttpMonitorApp\HttpMonitorApp.csproj", "{A34BBCE5-001C-F296-65C9-AC0DCE5CED90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A34BBCE5-001C-F296-65C9-AC0DCE5CED90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34BBCE5-001C-F296-65C9-AC0DCE5CED90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34BBCE5-001C-F296-65C9-AC0DCE5CED90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34BBCE5-001C-F296-65C9-AC0DCE5CED90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CD0440D-C2C1-46AD-85C5-39506BD33E07}
+	EndGlobalSection
+EndGlobal
